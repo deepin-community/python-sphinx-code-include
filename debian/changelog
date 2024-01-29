@@ -1,5 +1,17 @@
-template-repository (1.0-1) unstable; urgency=medium
+python-sphinx-code-include (1.1.1-3) unstable; urgency=medium
 
-  * Initial release
+  * Cleans better (Closes: #1047292).
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Thomas Goirand <zigo@debian.org>  Mon, 21 Aug 2023 11:41:58 +0200
+
+python-sphinx-code-include (1.1.1-2) unstable; urgency=medium
+
+  * Re-upload source-only.
+
+ -- Thomas Goirand <zigo@debian.org>  Wed, 08 Mar 2023 10:29:00 +0100
+
+python-sphinx-code-include (1.1.1-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #1032269)
+
+ -- Thomas Goirand <zigo@debian.org>  Thu, 02 Mar 2023 13:56:43 +0100

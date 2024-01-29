@@ -1,0 +1,20 @@
+Description: No intersphinx
+Author: Thomas Goirand <zigo@debian.org>
+Forwarded: not-needed
+Last-Update: 2023-03-02
+
+--- python-sphinx-code-include-1.1.1.orig/docs/conf.py
++++ python-sphinx-code-include-1.1.1/docs/conf.py
+@@ -63,9 +63,9 @@ extensions += [
+ ]
+ 
+ # These next settings are required if you want to link to other Sphinx projects
+-extensions += [
+-    "sphinx.ext.intersphinx",
+-]
++#extensions += [
++#    "sphinx.ext.intersphinx",
++#]
+ 
+ intersphinx_mapping = {
+     "https://requests.kennethreitz.org/en/latest": None,

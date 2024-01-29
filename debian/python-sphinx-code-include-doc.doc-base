@@ -1,0 +1,9 @@
+Document: python-sphinx-code-include-doc
+Title: sphinx-code-include Documentation
+Author: N/A
+Abstract: Sphinx documentation for sphinx-code-include
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-sphinx-code-include-doc/html/index.html
+Files: /usr/share/doc/python-sphinx-code-include-doc/html/*
